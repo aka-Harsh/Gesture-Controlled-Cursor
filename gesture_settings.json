@@ -1,0 +1,21 @@
+{
+    "use_gpu": false,
+    "bookmarks": [
+        "https://www.youtube.com/",
+        "https://chatgpt.com/",
+        "https://github.com/aka-harsh",
+        "https://aws.amazon.com/"
+    ],
+    "cursor_sensitivity": 0.7,
+    "click_rate": 2.0,
+    "gesture_threshold": 0.8,
+    "stability_zone": 15,
+    "camera_resolution": [
+        640,
+        480
+    ],
+    "show_visual_feedback": true,
+    "window_theme": "modern",
+    "auto_start_camera": true,
+    "emergency_hotkey": "ctrl+alt+q"
+}
